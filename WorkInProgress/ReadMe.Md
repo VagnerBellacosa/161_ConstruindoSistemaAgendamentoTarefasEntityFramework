@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desafio de Projeto: Construindo um sistema de agendamento de tarefas com Entity Framework](https://web.dio.me/lab/desafio-de-projeto-2/learning/56d430d9-e3a1-4562-884d-677e7f230853)[Repositório do desafio](https://web.dio.me/lab/desafio-de-projeto-2/learning/b7582223-73d5-4332-9d31-1d707c4f3911)
+- [Desafio de Projeto: Construindo um sistema de agendamento de tarefas com Entity Framework](https://web.dio.me/lab/desafio-de-projeto-2/learning/56d430d9-e3a1-4562-884d-677e7f230853)
+- [Repositório do desafio](https://web.dio.me/lab/desafio-de-projeto-2/learning/b7582223-73d5-4332-9d31-1d707c4f3911)
 
 
 
